@@ -1,0 +1,14 @@
+/Users/rajak/Downloads/Workshop2/Task1/bin/Debug/net9.0/Task1
+/Users/rajak/Downloads/Workshop2/Task1/bin/Debug/net9.0/Task1.deps.json
+/Users/rajak/Downloads/Workshop2/Task1/bin/Debug/net9.0/Task1.runtimeconfig.json
+/Users/rajak/Downloads/Workshop2/Task1/bin/Debug/net9.0/Task1.dll
+/Users/rajak/Downloads/Workshop2/Task1/bin/Debug/net9.0/Task1.pdb
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.AssemblyInfoInputs.cache
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.AssemblyInfo.cs
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.csproj.CoreCompileInputs.cache
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.dll
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/refint/Task1.dll
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.pdb
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.genruntimeconfig.cache
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/ref/Task1.dll
