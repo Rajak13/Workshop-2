@@ -12,3 +12,4 @@
 /Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.pdb
 /Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.genruntimeconfig.cache
 /Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/ref/Task1.dll
+/Users/rajak/Downloads/Workshop2/Task1/obj/Debug/net9.0/Task1.sourcelink.json
