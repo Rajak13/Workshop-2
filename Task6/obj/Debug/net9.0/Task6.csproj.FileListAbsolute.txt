@@ -1,0 +1,15 @@
+/Users/rajak/Downloads/Workshop2/Task6/bin/Debug/net9.0/Task6
+/Users/rajak/Downloads/Workshop2/Task6/bin/Debug/net9.0/Task6.deps.json
+/Users/rajak/Downloads/Workshop2/Task6/bin/Debug/net9.0/Task6.runtimeconfig.json
+/Users/rajak/Downloads/Workshop2/Task6/bin/Debug/net9.0/Task6.dll
+/Users/rajak/Downloads/Workshop2/Task6/bin/Debug/net9.0/Task6.pdb
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/Task6.AssemblyInfoInputs.cache
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/Task6.AssemblyInfo.cs
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/Task6.csproj.CoreCompileInputs.cache
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/Task6.sourcelink.json
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/Task6.dll
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/refint/Task6.dll
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/Task6.pdb
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/Task6.genruntimeconfig.cache
+/Users/rajak/Downloads/Workshop2/Task6/obj/Debug/net9.0/ref/Task6.dll
